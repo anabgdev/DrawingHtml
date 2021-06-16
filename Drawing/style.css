@@ -1,0 +1,27 @@
+.content {
+    width: 1000px;
+    height: 550px;
+    border: 2px solid gray;
+    margin: 0 auto;
+    cursor: crosshair;
+    margin-top: 50px;
+    flex-direction: column;
+}
+
+.clearButton {
+    width: 100px;
+    position: absolute;
+    top: 620px;
+    left: 620px;
+    font-size: 16px;
+    background-color: rgb(104, 104, 150);
+    color: white;
+}
+
+.form {
+    position: absolute;
+    width: 990px;
+    background: rgb(104, 104, 150);
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
